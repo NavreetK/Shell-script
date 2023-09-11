@@ -1,0 +1,4 @@
+1. Post the bash scripts on github repo
+2. Describe every file/script on Readme file
+3. Add screenshots of script results in Readme
+4. Download Vmware Esxi - have it ready for next class to use Ubuntu !!!
