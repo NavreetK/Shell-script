@@ -1,1 +1,4 @@
-echo "Hello World"
+# to list installed packages
+sudo apt list --installed
+
+
