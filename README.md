@@ -1,7 +1,7 @@
 # devopsclass
 
 Result of script to display the list of Installed packages: 
-![Installed Packages](https://github.com/NavreetK/devopsclass/blob/main/photos/InstalledPack.png)
+![Installed Packages](https://github.com/NavreetK/devopsclass/blob/main/photos/InstalledPackages.png)
 
 Script to display Large Sized Files
 ![Large Files](https://github.com/NavreetK/devopsclass/blob/main/photos/LargeFiles.png)
