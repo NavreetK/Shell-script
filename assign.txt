@@ -2,3 +2,13 @@
 2. Describe every file/script on Readme file
 3. Add screenshots of script results in Readme
 4. Download Vmware Esxi - have it ready for next class to use Ubuntu !!!
+
+
+Assignment from Sep 6 - Bash Script: 
+Script to generate a list of installed packages
+script to find large files
+script to monitor memory usage
+script to monitor CPU usage
+script to Generate a Random password
+Script to check website availability
+list columns 1 and 3 from a file and read output to bash script
