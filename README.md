@@ -11,7 +11,7 @@ Script to display Memory Utilization and CPU Utilization
 
 Script for checking availability of a Website
 # curl is tool for transferring data from or to a server. -I fecthes the header only
-![Availability of Website- by using curl](https://github.com/NavreetK/devopsclass/blob/main/photos/url.png)
+![Availability of Website- by using curl](https://github.com/NavreetK/devopsclass/blob/main/photos/curl.png)
 
 ![Availability of Website - by using fping](https://github.com/NavreetK/devopsclass/blob/main/photos/fping.png)
 
