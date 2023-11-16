@@ -1,4 +1,4 @@
-# devopsclass
+## Shell scripting
 
 Result of script to display the list of Installed packages: 
 ![Installed Packages](https://github.com/NavreetK/devopsclass/blob/main/photos/InstalledPackages.png)
